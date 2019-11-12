@@ -12,7 +12,6 @@ DSI work shop to learn how to use git.
 - Make branch
 - Move branch
 - Make a conflict
-- Make another problem (detached - head)
 - Make changes on wrong branch
 - Git fetch
 - Git clone
