@@ -23,4 +23,5 @@ DSI work shop to learn how to use git.
 
 - [Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) - Great and fun programming tutorial.
 - [Git Guidelines](https://guides.github.com/) - For more documentation including git flow.
-
+- [Git Kraken](https://www.gitkraken.com/)
+- [Download Git](https://git-scm.com/downloads)
